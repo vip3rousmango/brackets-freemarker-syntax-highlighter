@@ -1,0 +1,27 @@
+{
+  "name": "freemarker",
+  "title": "Freemarker Syntax Highlighter",
+  "version": "1.0.0",
+  "description": "Syntax highlighting support for Freemarker template files (.ftl)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vip3rousmango/brackets-freemarker-syntax-highlighter"
+  },
+  "keywords": [
+    "freemarker",
+    "syntax",
+    "highlighting"
+  ],
+  "author": "Alexander Romano <alexander@virtuallycreative.ca> (https://github.com/vip3rousmango)",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/vip3rousmango/brackets-freemarker-syntax-highlighter/issues"
+  },
+  "homepage": "https://github.com/vip3rousmango/brackets-freemarker-syntax-highlighter",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
